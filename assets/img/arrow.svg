@@ -1,0 +1,26 @@
+<svg id="arrow" xmlns="http://www.w3.org/2000/svg" width="99" height="72" viewBox="0 0 99 72">
+  <circle id="Oval_Copy_20" data-name="Oval Copy 20" cx="3" cy="3" r="3" transform="translate(0 19)" fill="#00e676"/>
+  <circle id="Oval_Copy_22" data-name="Oval Copy 22" cx="3" cy="3" r="3" fill="#00e676"/>
+  <circle id="Oval_Copy_23" data-name="Oval Copy 23" cx="3" cy="3" r="3" transform="translate(20)" fill="#00e676"/>
+  <circle id="Oval_Copy_32" data-name="Oval Copy 32" cx="3" cy="3" r="3" transform="translate(10)" fill="#00e676"/>
+  <circle id="Oval_Copy_24" data-name="Oval Copy 24" cx="3" cy="3" r="3" transform="translate(29)" fill="#00e676"/>
+  <circle id="Oval_Copy_25" data-name="Oval Copy 25" cx="3" cy="3" r="3" transform="translate(38)" fill="#00e676"/>
+  <circle id="Oval_Copy_26" data-name="Oval Copy 26" cx="3" cy="3" r="3" transform="translate(47)" fill="#00e676"/>
+  <g id="arrow_dotted" data-name="arrow / dotted" transform="translate(37 26)">
+    <g id="arrow-2" data-name="arrow">
+      <circle id="Oval_Copy_33" data-name="Oval Copy 33" cx="3" cy="3" r="3" transform="translate(10)" fill="#fff"/>
+      <circle id="Oval_Copy_35" data-name="Oval Copy 35" cx="3" cy="3" r="3" transform="translate(10 10)" fill="#fff"/>
+      <circle id="Oval_Copy_36" data-name="Oval Copy 36" cx="3" cy="3" r="3" transform="translate(10 20)" fill="#fff"/>
+      <circle id="Oval_Copy_38" data-name="Oval Copy 38" cx="3" cy="3" r="3" transform="translate(10 40)" fill="#fff"/>
+      <circle id="Oval_Copy_41" data-name="Oval Copy 41" cx="3" cy="3" r="3" transform="translate(10 30)" fill="#fff"/>
+      <circle id="Oval_Copy_39" data-name="Oval Copy 39" cx="3" cy="3" r="3" transform="translate(0 30)" fill="#fff"/>
+      <circle id="Oval_Copy_40" data-name="Oval Copy 40" cx="3" cy="3" r="3" transform="translate(20 30)" fill="#fff"/>
+    </g>
+  </g>
+  <circle id="Oval_Copy_27" data-name="Oval Copy 27" cx="3" cy="3" r="3" transform="translate(56)" fill="#00e676"/>
+  <circle id="Oval_Copy_31" data-name="Oval Copy 31" cx="3" cy="3" r="3" transform="translate(65)" fill="#00e676"/>
+  <circle id="Oval_Copy_37" data-name="Oval Copy 37" cx="3" cy="3" r="3" transform="translate(75)" fill="#00e676"/>
+  <circle id="Oval_Copy_28" data-name="Oval Copy 28" cx="3" cy="3" r="3" transform="translate(93)" fill="#00e676"/>
+  <circle id="Oval_Copy_29" data-name="Oval Copy 29" cx="3" cy="3" r="3" transform="translate(93 10)" fill="#00e676"/>
+  <circle id="Oval_Copy_30" data-name="Oval Copy 30" cx="3" cy="3" r="3" transform="translate(93 20)" fill="#00e676"/>
+</svg>
